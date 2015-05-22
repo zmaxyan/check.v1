@@ -1,3 +1,5 @@
+FORK OF: http://gopkg.in/check.v1
+
 Instructions
 ============
 
